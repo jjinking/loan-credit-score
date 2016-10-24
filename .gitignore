@@ -1,0 +1,8 @@
+*.pdf
+*.pyc
+*~
+*#
+.ipynb_checkpoints/
+*csv
+data/
+*.pkl
